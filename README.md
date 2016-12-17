@@ -1,2 +1,2 @@
-# githubPageTest
+# GithubPageTest
 Trying github pages
